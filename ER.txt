@@ -1,0 +1,4 @@
+REYESMAGOS(#id_reymago, nombre)
+JUGUETES(#id_juguete, nombreJuguete, precioJuguete, id_reymago)
+NINOS(#id_nino, nombre, apellido, fecha_nacimiento, bueno_malo)
+PEDIR(#id_pedir, id_juguete, id_nino)

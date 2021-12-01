@@ -1,0 +1,54 @@
+
+.fondo-reyesmagos{
+    background-image: url(../img/fondo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.btn-ninos  {
+    font-weight: bold;
+    color:gold;
+}
+.btn-regalos{
+    font-weight: bold;
+    color:gold;
+}
+.btn-busqueda{
+    font-weight: bold;
+    color:gold;
+}
+.btn-reyesmagos{
+    font-weight: bold;
+    color:gold;
+}
+
+.margin-reyesmagos{
+    margin-top: 450px;
+}
+
+
+
+/* Media-queries */
+/* XS */
+@media (min-width: 300px) {
+   
+}
+/* SM */
+@media (min-width: 576px) {
+    
+}
+/* MD */
+@media (min-width: 768px) { 
+   
+    
+}
+/* LG */
+@media (min-width: 992px) { 
+   
+}
+/* XL */
+@media (min-width: 1200px) { 
+    
+}
