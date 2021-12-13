@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="48cm" height="22cm" viewBox="82 162 957 430" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffa500" x="791" y="476" width="66.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="791" y="476" width="66.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="824.25" y="497.2">ninos</text>
+  </g>
+  <g>
+    <rect style="fill: #60cef2" x="778" y="229" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="778" y="229" width="89.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="822.8" y="250.2">juguetes</text>
+  </g>
+  <g>
+    <rect style="fill: #ff0000" x="256" y="228" width="105" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="256" y="228" width="105" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="308.5" y="249.2">reyesmagos</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffa500" cx="614.1" cy="533" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="614.1" cy="533" rx="43.1" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="614.1" y="536.2">nombre</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffa500" cx="646.95" cy="483" rx="46.95" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="646.95" cy="483" rx="46.95" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="646.95" y="486.2">id_nino</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="620" y1="491" x2="673.9" y2="491"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffa500" cx="695.8" cy="568" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="695.8" cy="568" rx="50.8" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="695.8" y="571.2">apellido</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffa500" cx="860.6" cy="573" rx="81.6" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="860.6" cy="573" rx="81.6" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="860.6" y="576.2">fecha_nacimiento</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffa500" cx="979.5" cy="521" rx="58.5" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="979.5" cy="521" rx="58.5" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="979.5" y="524.2">bueno_malo</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="694.262" y1="485.935" x2="790" y2="491.875"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="654.452" y1="525.511" x2="789.997" y2="500.357"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="723.279" y1="552.169" x2="791.322" y2="512.97"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="852.009" y1="554.33" x2="832.991" y2="512.998"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="927.611" y1="511.976" x2="858.363" y2="499.933"/>
+  <g>
+    <ellipse style="fill: #60cef2" cx="902.1" cy="181" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="902.1" cy="181" rx="43.1" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="902.1" y="184.2">nombre</text>
+  </g>
+  <g>
+    <ellipse style="fill: #60cef2" cx="768.5" cy="183" rx="58.5" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="768.5" cy="183" rx="58.5" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="768.5" y="186.2">id_juguete</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="730" y1="191" x2="807" y2="191"/>
+  </g>
+  <g>
+    <ellipse style="fill: #60cef2" cx="950.1" cy="248" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="950.1" cy="248" rx="43.1" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="950.1" y="251.2">precio</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="806.673" y1="227.992" x2="783.904" y2="201.156"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="845.606" y1="228.019" x2="881.999" y2="197.73"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="868.58" y1="247.36" x2="906.014" y2="247.654"/>
+  <g>
+    <ellipse style="fill: #ff0000" cx="141.5" cy="274" rx="58.5" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="141.5" cy="274" rx="58.5" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="141.5" y="277.2">id_reymago</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="103" y1="282" x2="180" y2="282"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ff0000" cx="230.1" cy="334" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="230.1" cy="334" rx="43.1" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="230.1" y="337.2">nombre</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="193.861" y1="265.221" x2="254.998" y2="254.97"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="245.757" y1="316.426" x2="291.57" y2="265.003"/>
+  <g>
+    <polygon style="fill: #bfbfbf" points="464,247.17 510.95,219 557.9,247.17 510.95,275.34 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="464,247.17 510.95,219 557.9,247.17 510.95,275.34 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="514.95" y="213">1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="514.95" y="297.34">N</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="510.95" y="250.37">comprar</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="361.992" y1="246.309" x2="462.994" y2="246.893"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="558.839" y1="247.144" x2="776.995" y2="247.025"/>
+  <g>
+    <polygon style="fill: #bfbfbf" points="776,364.55 815.25,341 854.5,364.55 815.25,388.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="776,364.55 815.25,341 854.5,364.55 815.25,388.1 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="819.25" y="335">N</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="819.25" y="410.1">M</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="815.25" y="367.75">pedir</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="821.579" y1="266.006" x2="816.82" y2="340.099"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="816.956" y1="389.091" x2="822.929" y2="474.998"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="610" y="227">
+    <tspan x="610" y="227">1:N</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="418" y="229">
+    <tspan x="418" y="229">1:1</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="838" y="317">
+    <tspan x="838" y="317">1:N</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="830" y="432">
+    <tspan x="830" y="432">1:M</tspan>
+  </text>
+</svg>
